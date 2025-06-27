@@ -1,3 +1,6 @@
+//Este arquvio é um complemento do arquivo AulaUser3_1
+//Os dois devem ser apertos juntos na IDE.
+
 import domain.User;
 
 import java.util.HashMap;
