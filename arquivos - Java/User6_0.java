@@ -1,3 +1,5 @@
+//Este arquivo é um complemento do arquivo Aula6_0
+
 import java.util.Objects;
 
 public class User {
