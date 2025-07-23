@@ -9,7 +9,6 @@ import mapper.UserMapper;
 import model.UserModel;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
-
 import java.time.LocalDate;
 
 public class Main {
