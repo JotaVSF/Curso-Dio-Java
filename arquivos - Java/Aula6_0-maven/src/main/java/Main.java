@@ -1,3 +1,9 @@
+/* Testando o Maven. Oq é?
+O Maven é uma ferramenta de automação de build e gerenciamento de projetos,
+amplamente utilizada em projetos Java, para automatizar tarefas como a compilação do código,
+o gerenciamento de dependências e a criação de pacotes.
+Ele simplifica o processo de desenvolvimento, oferecendo uma estrutura padronizada
+ */
 import br.com.dio.DTO.UserDTO;
 import mapper.UserMapper;
 import model.UserModel;
