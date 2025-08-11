@@ -1,7 +1,7 @@
 __RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS__
 
-Data: 11/08/2025
-Empresa: Secury-bag
+Data: 11/08/2025 -
+Empresa: Secury-bag -
 Responsável: João Vitor de Souza.
 
 __INTRODUÇÃO__
@@ -69,3 +69,4 @@ João Vitor S. Ferreira
 
 __NOTAS FINAIS__
 A implementação desse modelo garantirá que a Secury-bag possa não só proteger as informações dos clientes de forma eficiente, mas também oferecer uma experiência rápida e segura para os usuários, mantendo os custos sob controle e garantindo que a infraestrutura esteja preparada para escalar conforme a demanda.
+
